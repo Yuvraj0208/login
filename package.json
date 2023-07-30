@@ -1,0 +1,15 @@
+{
+  "name": "my-form-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.7.0",
+    "mongodb-core": "^3.2.7"
+  }
+}
